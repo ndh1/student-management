@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Nguyen Van A",
+      "age": "28",
+      "email": "a@gmail.com",
+      "className": "KTPM"
+    },
+    {
+      "id": "c5b6",
+      "name": "Nguyễn Định Hướng",
+      "age": "28",
+      "className": "KTPM",
+      "email": "ndh1499@gmail.com"
+    },
+    {
+      "id": "3f30",
+      "name": "Nguyen Van A2",
+      "age": "28",
+      "className": "KTPM",
+      "email": "ndhuong.ktpm0117@student.ctuet.edu.vn"
+    }
+  ]
+}
