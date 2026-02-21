@@ -54,6 +54,7 @@ const AddStudent = () => {
               name="age"
               value={student.age}
               onChange={handleChange}
+              min="1"
               required
             />
           </div>
